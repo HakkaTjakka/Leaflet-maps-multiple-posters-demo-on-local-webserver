@@ -1,9 +1,11 @@
 # Leaflet-maps-multiple-posters-demo-on-local-webserver
 Demonstration of several posters in Leaflet zoomable map format on local webserver
 
-http://83.83.222.154/newyork/ (Older leaflet script without lines between tiles, but the zoom goes up and down by a factor of 2)
+      http://83.83.222.154/newyork/
+      (Older leaflet script without lines between tiles, but the zoom goes up and down by a factor of 2)
+      (Use +/- keyboard or keypad for delta zoom=1)
 
-Other: http://83.83.222.154/newyork/index2.html
+      Other: http://83.83.222.154/newyork/index2.html
 
 More posters will follow and uploaded...
 
