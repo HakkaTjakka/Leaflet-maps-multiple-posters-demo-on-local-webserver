@@ -17,4 +17,16 @@ Also see:
       https://github.com/HakkaTjakka/FFFC
       https://github.com/HakkaTjakka/REGION_FINDER
 
+***
+![clipboard_small](https://github.com/HakkaTjakka/Leaflet-maps-multiple-posters-demo-on-local-webserver/blob/main/Clipboard.jpg)
+***
+***
+![clipboard_small](https://github.com/HakkaTjakka/Leaflet-maps-multiple-posters-demo-on-local-webserver/blob/main/Clipboard_2.5_percent.jpg)
+***
+***
+![clipboard_small](https://github.com/HakkaTjakka/Leaflet-maps-multiple-posters-demo-on-local-webserver/blob/main/Clipboard_2.5percent.jpg)
+***
+***
+![clipboard_small](https://github.com/HakkaTjakka/Leaflet-maps-multiple-posters-demo-on-local-webserver/blob/main/poster.jpg)
+***
 
