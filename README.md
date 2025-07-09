@@ -2,10 +2,14 @@
 Demonstration of several posters in Leaflet zoomable map format on local webserver
 
 CHANGED (AGAIN...):
+
 IP CHANGED, NOW: http://83.84.196.105/posters/
-http://83.84.196.105/newyork/
+
+
+http://83.84.196.105/Storage/posters/NewYork/
 
 http/ftp server at: 83.84.196.105
+http://83.84.196.105/posters/NewYork/
 Several posters made with this program of Google Earth 3d (30 x 15 meters on 300 ppi).
 Google Earth 3d whole of Holland converted to Cubic Chunks format for Build The Earth scale 1 to 1 (BTE121).
 Other automated c/c++ generated Mindcraft worlds
@@ -15,7 +19,7 @@ Map / poster zoom demo.
       (Older leaflet script without lines between tiles, but the zoom goes up and down by a factor of 2)
       (Use +/- keyboard or keypad for delta zoom=1)
 
-Other: http://83.83.222.154/newyork/index2.html
+Other: http://83.84.196.105/Storage/posters/NewYork/index2.html
 
 More posters will follow and uploaded...
 
